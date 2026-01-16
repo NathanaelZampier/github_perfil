@@ -1,6 +1,6 @@
-Repositório sobre o contéudo de react, exploramos a criação de componentes, manipulação de estados e eventos, useEffect, renderização de listas e css modules
+Repositório sobre o conteúdo de React, onde exploramos a criação de componentes, manipulação de estados e eventos, uso do hook `useEffect`, renderização de listas e CSS Modules para estilização.
 
-Criamos uma página de perfil do github, onde o usuário insere seu nome de perfil, atraves de um API realizamos a aquisição e apresentamos os projetos do usuário.
+Criamos uma página de perfil do GitHub, na qual o usuário insere seu nome de perfil. Através de uma requisição à API, apresentamos os projetos do usuário de forma dinâmica.
 
 
 # React + Vite
