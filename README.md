@@ -1,3 +1,8 @@
+Repositório sobre o contéudo de react, exploramos a criação de componentes, manipulação de estados e eventos, useEffect, renderização de listas e css modules
+
+Criamos uma página de perfil do github, onde o usuário insere seu nome de perfil, atraves de um API realizamos a aquisição e apresentamos os projetos do usuário.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
